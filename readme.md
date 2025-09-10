@@ -28,7 +28,7 @@ Find all noteworthy project developments here.
 I will update this page when there is news, and post on r/ergomechkeyboards or r/olkb too.
 
 ### 2025-09-10 A new assembled keycaps STL files has been uploaded (by me, not approved by original owner)
-Find [STL file](/files/custom-keycaps/PG1316S_keycap_normal_assembled\ v1.5.stl) under [keycap folder](/files/custom-keycaps/). Installed image uploaded [at](/images/assembled\ keycaps\ installed.jpg)
+Find [STL file](/files/custom-keycaps/PG1316S_keycap_normal_assembled%20v1.5.stl) under [keycap folder](/files/custom-keycaps/). Installed image uploaded [at](/images/assembled%20keycaps%20installed.jpg)
 
 ### 2025-02-24 I uploaded the keycap files!
 You can now find the keycap STEP files in the [keycap folder](/files/custom-keycaps). Don't forget to read the readme in that folder.
